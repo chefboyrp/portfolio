@@ -2,3 +2,19 @@ body {
     background: #061f47;
     color: #ffffff;
 }
+
+a:link {
+    color:#ffffff
+}
+
+a:visited {
+    color: hotpink
+}
+
+a:hover {
+    color: yellow
+}
+
+a:active {
+    color: green
+}
